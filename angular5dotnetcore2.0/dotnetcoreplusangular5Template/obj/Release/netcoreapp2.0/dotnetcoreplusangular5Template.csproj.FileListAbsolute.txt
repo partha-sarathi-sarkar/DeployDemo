@@ -1,0 +1,12 @@
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/bin/Release/netcoreapp2.0/dotnetcoreplusangular5Template.deps.json
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/bin/Release/netcoreapp2.0/dotnetcoreplusangular5Template.runtimeconfig.json
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/bin/Release/netcoreapp2.0/dotnetcoreplusangular5Template.runtimeconfig.dev.json
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/bin/Release/netcoreapp2.0/dotnetcoreplusangular5Template.dll
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/bin/Release/netcoreapp2.0/dotnetcoreplusangular5Template.pdb
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/obj/Release/netcoreapp2.0/dotnetcoreplusangular5Template.csprojAssemblyReference.cache
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/obj/Release/netcoreapp2.0/dotnetcoreplusangular5Template.csproj.CoreCompileInputs.cache
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/obj/Release/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/obj/Release/netcoreapp2.0/dotnetcoreplusangular5Template.AssemblyInfoInputs.cache
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/obj/Release/netcoreapp2.0/dotnetcoreplusangular5Template.AssemblyInfo.cs
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/obj/Release/netcoreapp2.0/dotnetcoreplusangular5Template.dll
+/home/cygnet/Desktop/Demo/angular5dotnetcore2.0/angular5dotnetcore2.0/dotnetcoreplusangular5Template/obj/Release/netcoreapp2.0/dotnetcoreplusangular5Template.pdb
